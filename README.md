@@ -1,10 +1,9 @@
 # Using Puppeteer
 
-[Intro To Web Scraping With Puppeteer - Traversy Media (22m)](https://www.youtube.com/watch?v=S67gyqnYHmI)
-
----
+Tutorial: [Intro To Web Scraping With Puppeteer - Traversy Media (22m)](https://www.youtube.com/watch?v=S67gyqnYHmI)
 
 scraped website: https://www.traversymedia.com/
+
 puppeteer official page: https://pptr.dev/
 
 ---
