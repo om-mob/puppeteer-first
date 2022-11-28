@@ -24,7 +24,9 @@ puppeteer official page: https://pptr.dev/
    ```ts
    await page.goto(url);
    ```
-1. Using `page.$$eval` method scrape and create your json object. [Documentations](https://pptr.dev/api/puppeteer.page.__eval/)
+1. Using `page.$$eval` method to scrape and create your json object. 
+      [Documentations](https://pptr.dev/api/puppeteer.page.__eval/)
+      
    This method runs `Array.from(document.querySelectorAll(selector))` within the page and passes the result as the first argument to the pageFunction.
 
    ```ts
